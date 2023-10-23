@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
 http://chocotv.live:8080/GaziTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV http://chocotv.live:8080/GaziTVHD/tracks-v1a1/mono.m3u8?token=d57e918ee49e431af3f467ee0490edf3f4c75399-704894ee1dd7b92528d8f584e3fa0f48-1698070987-1698060187
