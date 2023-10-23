@@ -3,3 +3,4 @@
 #EXTINF:-1 tvg-logo="//upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", HTV http://tv.cinemahall.net:9191/t-sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="//upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", HTV http://chocotv.live:8080/GaziTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="//upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", gtv http://chocotv.live:8080/GaziTVHD/tracks-v1a1/mono.m3u8?token=33bb1267fd2580132ae21a72887ff99e7ea825ef-d007e3dfbb3478ff03d48e24c3e11718-1698069934-1698059134
